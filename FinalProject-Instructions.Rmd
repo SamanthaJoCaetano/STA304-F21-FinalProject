@@ -115,7 +115,7 @@ This project will be graded based off the rubric available on the Assignment Que
 
 \newpage
 
-# Description: 
+# Description 
 
 In this project you will write a report on a data analysis of observational data in which your main methodology will include at least one of the following (to be covered in Weeks 9-11):
 
@@ -148,7 +148,7 @@ The report will consist of 9 sections: Abstract, Key Words, Introduction, Data, 
 
 The material and text on this project should be different from that of previous assignments. Thus, you should NOT directly copy your previous assignment work. We highly encourage you use feedback from previous assignments to amend/proofread/update your Final Project. If your work is a direct copy of a previous submission or is a direct copy of another person's submission this will be considered an academic offense. We encourage you to take advantage of the openness of this project and use it to study something you are interested in, to add to your resume/cv.
 
-### Abstract
+## Abstract
 
 The goal of the abstract is to provide the reader with a summary of the report.
 
@@ -165,7 +165,7 @@ Your **Abstract** section should include the following:
 A list of (4 to 10) key words used to describe your report.
 
 
-### Introduction
+## Introduction
 
 The goal of the Introduction section is to introduce the overall "problem" to the reader.
 
@@ -180,7 +180,7 @@ Your **Introduction** section should include the following:
 - Introduce hypotheses.
 
 
-### Data 
+## Data 
 
 The goal of the Data section is to introduce the reader to the data set, showcase some meaningful aspects of the data, and get them thinking about potential hypotheses/findings.
 
@@ -199,7 +199,7 @@ Your **Data** section should include the following:
 - In line referencing/text if needed.
 - Reference the programming language/software used to complete this section.
 
-### Methods
+## Methods
 
 The goal of the Methods section is to introduce the reader to the statistical methods that you will be using to analyze the data.
 
@@ -212,7 +212,7 @@ Your **Methods** section should include the following:
 - Any rigorous mathematical computations should go into the Appendix.
 
 
-### Results
+## Results
 
 The goal of the Results section is to present the results of the statistical analyses to the reader.
 
@@ -226,7 +226,7 @@ Your **Results** section should include the following:
 - In line R code to produce output in text (E.g. The mean is `` ` `` ` r mean(x)`  `` ` ``.).
 - Any supplemental/additional figures/tables should go into the Appendix.
 
-### Conclusions
+## Conclusions
 
 The goal of the Conclusions section is to present the story of your analysis to the reader.
 
@@ -239,15 +239,17 @@ Your **Conclusions** section should include the following:
 - Some commentary on any drawbacks/limitations/weaknesses.
 - Recommendations for Next Steps for future analyses/reports.
 
-### Bibliography
+## Bibliography
 
 A well formatted biblopgraphy, including references in a well formatted list. These should have been referred to in the text above.
 
-### Appendix
+## Appendix
 
 The goal of the appendix is to include: (i) an ethics statement; and (ii) any supplementary, non-primary information. 
 
 Your appendix should include at least two subsections (i) Ethics Statement; (ii) Supplementary Materials.
+
+### Ethics Statement
 
 Your **Ethics Statement** subsection should include the following:
 
@@ -255,6 +257,7 @@ Your **Ethics Statement** subsection should include the following:
 - In this course we have covered ethics both implicitly and explicitly throughout. Some examples include: reproducibility, transparency, using open data, publication bias, verifying assumptions, not p-hacking, gender vs sex, survey design/testing (e.g., avoiding leading questions, avoiding bias), privacy concerns, algorithmic bias, properly citing in your bibliography, etc.
 - This subsection only needs to be one or two paragraphs long. It is not intended to be hard, but is meant to be somewhat reflective. Essentially, just describe how you made efforts to "do the right thing" in two different ways while completing this project. 
 
+### Supplementary Materials
 
 Your **Supplementary Materials** subsection(s) should include the following:
 
@@ -264,7 +267,8 @@ Your **Supplementary Materials** subsection(s) should include the following:
 - this subsection may be organized into multiple sub-sections, depending on how much supplementary info is included and how to best organize it.
 
 
-### General Notes:
+## General Notes
+
 - If you are looking for free, open data (where the data collection process is tangible) I would recommend using some R packages data. Here is a list of R packages available: [https://cran.r-project.org/web/packages/available_packages_by_name.html](https://cran.r-project.org/web/packages/available_packages_by_name.html). 
 - Some other sources of open data are:  [https://open.canada.ca/en/open-data](https://open.canada.ca/en/open-data) and [https://data.ontario.ca/](https://data.ontario.ca/).
 - Additionally, the Toronto Open Data portal also has some observational data. Here is a tutorial on grabbing Toronto Open Data [https://awstringer1.github.io/sta238-book/section-short-tutorial-on-pulling-data-for-assignment-1.html#section-toronto-open-data-portal](https://awstringer1.github.io/sta238-book/section-short-tutorial-on-pulling-data-for-assignment-1.html#section-toronto-open-data-portal). 

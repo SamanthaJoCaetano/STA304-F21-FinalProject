@@ -166,7 +166,13 @@ All analysis for this report was programmed using `R version 4.0.4`.
 
 # Appendix
 
-## Section 1 (Maybe call this "Supplementary Data" or "Survey")
+## A1: Ethics Statement
+
+<Here you should include a description of at least two ethical considerations that you had made within this report. Some examples include: reproducibility, transparency, using open data, publication bias, verifying assumptions, not p-hacking, gender vs sex, survey design/testing (e.g., avoiding leading questions, avoiding bias), privacy concerns, algorithmic bias, properly citing in your bibliography, etc.>
+
+
+
+## A2:  Materials
 
 <Include your a well formatted glimpse of your data here.>
 

@@ -35,9 +35,9 @@ library(openintro)
 \includegraphics[width=7.5cm, height=4.5cm]{images/example-image.jpeg}
 \end{center}
 
-Photo by [Adi Goldstein]("https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash]("https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") 
+Photo by [Adi Goldstein]("https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash]("https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText").
 
-<Be sure to include a citation in your bibliography for any external images that are not your property.>
+<Be sure to number and label these images and be sure to include a a citation in your bibliography for any external images that are not your property.>
 
 # Data
 

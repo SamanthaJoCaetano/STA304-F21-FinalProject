@@ -19,7 +19,7 @@ library(openintro)
 
 ## Keywords: Experiment, Machine Learning Algorigthm, Survival Analysis.
 
-<Note: Please change the keywords to better describe your data and analysis. (At the very least you should fix that typo.) For example you may want to include "Causal Inference", the specific method used (e.g., "Propensity Score Matching") and some other words which describe your data.>
+<Note: Please change the keywords to better describe your data and analysis. (At the very least you should fix the typo in algorithm.) For example you may want to include "Causal Inference", the specific method used (e.g., "Propensity Score Matching") and some other words which describe your data.>
 
 
 # Introduction

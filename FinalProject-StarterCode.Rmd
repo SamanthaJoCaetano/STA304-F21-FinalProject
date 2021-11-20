@@ -17,6 +17,9 @@ library(openintro)
 
 <Here you should put a summary of the entire report. You should write the section at the end (i.e., after finishing the other 5 main sections).>
 
+## Keywords: Experiment, Machine Learning Algorigthm, Survival Analysis.
+
+<Note: Please change the keywords to better describe your data and analysis. For example you may want to include "Causal Inference", the specific method used (e.g., "Propensity Score Matching") and some other words which describe your data.>
 
 
 # Introduction
